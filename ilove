@@ -1,3 +1,4 @@
+Naranbat 2016093    2019/03/01
 fun main(args : Array<String>) {
-    println("I love coding.")
+println("I love coding.")
 }
